@@ -2,7 +2,7 @@
 
 #### 🔬 Currently working on...
 - Understanding the cultural discountinuity across country borders using FB data.
-- Road network analysis to estimate economic damage from protests at a micro and macro scale.
+- Estimating the economic damage of protests at a micro and macro scale using road network analysis.
 
 #### 🛠️ Toolkit
 `python` `julia` `typst` `huggingface`
