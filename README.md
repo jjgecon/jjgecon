@@ -1,7 +1,8 @@
 **Economist studying the effects of cultural markets 🎵 📺 📚 🎬**
 
 #### 🔬 Currently working on...
-- taking care of my 6 month daugther
+- Understanding the cultural discountinuity across country borders using FB data.
+- On road network analysis to estimate economic damage from protests.
 
 #### 🛠️ Toolkit
 `python` `julia` `typst` `huggingface`
