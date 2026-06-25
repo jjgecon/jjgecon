@@ -1,7 +1,7 @@
 **Economist studying the effects of cultural markets 🎵 📺 📚 🎬**
 
 #### 🔬 Currently working on...
-- Understanding cultural evolutions motivated by strong cultural differences across borders.
+- Understanding cultural evolution motivated by strong cultural differences across borders.
 - Estimating the economic damage of protests/blockages at a micro and macro scale using road network analysis.
 
 #### 🛠️ Toolkit
